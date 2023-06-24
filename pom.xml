@@ -8,12 +8,12 @@
 	
 	<version>0.0.1-SNAPSHOT</version> 
 	
-	<name>liontech-web-app</name>
+	<name>Techstorm-web-app</name>
 
 	<description>Maven Web Project for Java Project</description>
 
 	<organization>
-		<name>Lion Technologies</name>
+		<name>Techstorm Technologies</name>
 		<url>http://Lion technologies.com/</url>
 	</organization>
 
