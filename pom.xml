@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	
 	<groupId>com.mt</groupId>
-	<artifactId>The GOAT-web-application</artifactId>
+	<artifactId>Lion-web-application</artifactId>
 	<packaging>war</packaging>
 	
 	<version>0.0.1-SNAPSHOT</version> 
@@ -13,7 +13,7 @@
 	<description>Maven Web Project for Java Project</description>
 
 	<organization>
-		<name>The GOATm Technologies</name>
+		<name>The GOAT Technologies</name>
 		<url>http://Lion technologies.com/</url>
 	</organization>
 
